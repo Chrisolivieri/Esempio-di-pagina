@@ -6,12 +6,15 @@ h1{
     color: white;
 }
 
-.color p{
+.color h5{
     color: #B7A3FE;
 }
 
-.my-auto{
-    width: 600px;
-    color: #A991FE;
+
+.rounded-circle{
+    width: 40px;
+    height: auto;
+    margin-left: 1rem;
 }
+
 
