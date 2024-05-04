@@ -40,6 +40,13 @@ h2{
 
 .carousel-control-next-icon,.carousel-control-prev-icon{
     background-color: black;
+    border-radius: 30%;
+    }
+
+    .carousel-control-next, .carousel-control-prev{
+        
+        
+        width: 30px;
     }
 
 .link{
@@ -65,4 +72,14 @@ h2{
 
 .grey{
     border-top: solid rgb(237, 234, 234);
+}
+
+#Capa_2{
+    fill: none;
+    stroke-width: 20
+}
+
+#Capa_2:hover {
+    
+    fill: currentColor;
 }
